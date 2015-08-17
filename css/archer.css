@@ -1,0 +1,29 @@
+body{
+	background-image: url("../archer/sterling-images/archer.jpg");
+	margin-left: 200px;
+}
+h1{
+	color: #2175d9;
+	 text-shadow:
+    -2px -2px 0 #000,
+    2px -2px 0 #000,
+    -2px 2px 0 #000,
+    2px 2px 0 #000; 
+	display: inline-block;
+	margin-left: 150px;
+	font-size: 100px;
+}
+
+div{
+	display: inline-block;
+	vertical-align: bottom;
+	margin-top: 200px;
+	margin-left: 20%;
+}
+
+.button{
+	background-image: url('http://i.ebayimg.com/00/s/MTAwMFgxMDAw/z/G-wAAOxy14VRXbPf/$T2eC16JHJH8E9qSEUh0lBR(bPfYgg!~~60_14.JPG');
+	width: 64px;
+	height: 64px;
+}
+
